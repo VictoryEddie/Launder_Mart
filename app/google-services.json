@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "460253847926",
+    "firebase_url": "https://launder-mart.firebaseio.com",
+    "project_id": "launder-mart",
+    "storage_bucket": "launder-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460253847926:android:4b5c15700975146ad59a57",
+        "android_client_info": {
+          "package_name": "com.example.laundermart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460253847926-8afncofeppe258itgap1n83m950ejmbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC7z9IHWT9nCHDZJiGavrZe5iOV5Tpa9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460253847926-8afncofeppe258itgap1n83m950ejmbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

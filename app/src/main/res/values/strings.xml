@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Launder Mart</string>
+    <string name="privacy_policy">By continuing, you agree to accept our
+        \n Privacy Policy and Terms of Service</string>
+    <string name="welcome_back">Welcome Back...</string>
+    <string name="enter_your_email">Enter Your Email...</string>
+    <string name="enter_your_password">Enter Your Password...</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="i_accept_the_terms_of_use">I Accept The Terms Of Use</string>
+    <string name="enter_your_password2">Enter Your Password...</string>
+    <string name="enter_your_email2">Enter Your Email...</string>
+    <string name="enter_your_name">Enter Your Name...</string>
+    <string name="register">REGISTER...</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login2">Login</string>
+    <string name="sign_out">Sign Out</string>
+</resources>
